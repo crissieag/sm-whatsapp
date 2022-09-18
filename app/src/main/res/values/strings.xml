@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sm-whatsapp</string>
+    <string name="placeHolderTelefone">Digite o telefone com DDD</string>
+    <string name="placeHolderMensagem">Qual mensagem deseja enviar?</string>
+    <string name="btnTxt">Enviar mensagem :)</string>
+
+
+</resources>
